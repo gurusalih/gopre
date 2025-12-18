@@ -1,4 +1,4 @@
-# Warning: We do not recommend using it for now. It will receive a major update soon. For details: https://github.com/9ssi7/bank
+You can [use idiogo instead of this](https://github.com/salihguru/idiogo)
 
 
 # gopre: A Go Project Template for CQRS and DDD
